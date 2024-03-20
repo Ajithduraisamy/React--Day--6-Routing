@@ -1,0 +1,14 @@
+.nav {
+  box-shadow: 10px 5px 5px grey;
+  height: 75px;
+  align-content: center;
+}
+.card {
+  margin-top: 50px;
+}
+.course {
+  padding-top: 50px;
+}
+.nav-item{
+  color: black;
+}
