@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
 
-function Card({items}) {
+function Card1({items}) {
     return (
         <>
             <div class="col-md-4">
@@ -17,4 +17,4 @@ function Card({items}) {
     )
 }
 
-export default Card
+export default Card1
