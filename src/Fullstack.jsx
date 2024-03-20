@@ -6,7 +6,7 @@ function Fullstack() {
 
         <h2 className="course">Full Stack Development</h2>
 
-        <div className="col-lg-4">
+        <div className="col-md-4">
           <div class="card" style={{ width: "25rem" }}>
             <img src="https://static.guvi.in/webinar/fsdcareerguidance.png" class="card-img-top" alt="..." />
             <div class="card-body">
@@ -15,7 +15,7 @@ function Fullstack() {
           </div>
         </div>
 
-        <div className="col-lg-4">
+        <div className="col-md-4">
           <div class="card" style={{ width: "25rem" }}>
             <img src="https://static.guvi.in/webinar/becomefsd.png" class="card-img-top" alt="..." />
             <div class="card-body">
@@ -24,7 +24,7 @@ function Fullstack() {
           </div>
         </div>
 
-        <div className="col-lg-4">
+        <div className="col-md-4">
           <div class="card" style={{ width: "25rem" }}>
             <img src="https://static.guvi.in/webinar/datasciencevsfsd.png" class="card-img-top" alt="..." />
             <div class="card-body">
@@ -33,7 +33,7 @@ function Fullstack() {
           </div>
         </div>
 
-        <div className="col-lg-4">
+        <div className="col-md-4">
           <div class="card" style={{ width: "25rem" }}>
             <img src="https://static.guvi.in/webinar/howtobecomemernstackdeveloper.png" class="card-img-top" alt="..." />
             <div class="card-body">
@@ -42,7 +42,7 @@ function Fullstack() {
           </div>
         </div>
 
-        <div className="col-lg-4">
+        <div className="col-md-4">
           <div class="card" style={{ width: "25rem" }}>
             <img src="https://static.guvi.in/webinar/programmingroadmap.png" class="card-img-top" alt="..." />
             <div class="card-body">
@@ -51,7 +51,7 @@ function Fullstack() {
           </div>
         </div>
 
-        <div className="col-lg-4">
+        <div className="col-md-4">
           <div class="card" style={{ width: "25rem" }}>
             <img src="https://static.guvi.in/webinar/fsdforaiandbuildchatbot.png" class="card-img-top" alt="..." />
             <div class="card-body">

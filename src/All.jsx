@@ -5,7 +5,7 @@ function All() {
 
         <h2 className="course">All Courses</h2>
 
-        <div className="col-lg-4">
+        <div className="col-md-4">
           <div class="card" style={{ width: "25rem" }}>
             <img src="https://static.guvi.in/course-thumbnail/webps/python.webp" class="card-img-top" alt="..." />
             <div class="card-body">
@@ -14,7 +14,7 @@ function All() {
           </div>
         </div>
 
-        <div className="col-lg-4">
+        <div className="col-md-4">
           <div class="card" style={{ width: "25rem" }}>
             <img src="https://static.guvi.in/course-thumbnail/webps/ui-path.webp" class="card-img-top" alt="..." />
             <div class="card-body">
@@ -23,7 +23,7 @@ function All() {
           </div>
         </div>
 
-        <div className="col-lg-4">
+        <div className="col-md-4">
           <div class="card" style={{ width: "25rem" }}>
             <img src="https://static.guvi.in/course-thumbnail/webps/javascript.webp" class="card-img-top" alt="..." />
             <div class="card-body">
@@ -32,7 +32,7 @@ function All() {
           </div>
         </div>
 
-        <div className="col-lg-4">
+        <div className="col-md-4">
           <div class="card" style={{ width: "25rem" }}>
             <img src="https://static.guvi.in/course-thumbnail/webps/autocadenglish.webp" class="card-img-top" alt="..." />
             <div class="card-body">
@@ -41,7 +41,7 @@ function All() {
           </div>
         </div>
 
-        <div className="col-lg-4">
+        <div className="col-md-4">
           <div class="card" style={{ width: "25rem" }}>
             <img src="https://static.guvi.in/course-thumbnail/webps/plsqlbengalibengali.webp" class="card-img-top" alt="..." />
             <div class="card-body">
@@ -50,7 +50,7 @@ function All() {
           </div>
         </div>
 
-        <div className="col-lg-4">
+        <div className="col-md-4">
           <div class="card" style={{ width: "25rem" }}>
             <img src="https://static.guvi.in/course-thumbnail/webps/vertexaienglish.webp" class="card-img-top" alt="..." />
             <div class="card-body">
