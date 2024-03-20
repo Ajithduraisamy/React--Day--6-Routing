@@ -21,7 +21,7 @@ function App() {
     },
     {
       Name:"Cloud Computing (AWS, Azure, Google Cloud)",
-      imagesource:"https://indianprinterpublisher.com/wp-content/uploads/2019/05/Cloud.jpg"
+      imagesource:"https://usupdates.com/wp-content/uploads/2021/01/cloud-computing-502462262-5ac1130e119fa800371ba0a8-scaled.jpg"
     },
     {
       Name:"Mobile App Development (iOS/Android)",
